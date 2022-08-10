@@ -358,7 +358,7 @@ body {
 .about-left {
     width: 868px;
     min-height:622px;
-    background-image:url(../img/dark-about.png),url(../img/bg-about.jpg);
+    background-image:url(../img/dark-about.png),url(img/bg-about.jpg);
     background-repeat: no-repeat;
     background-position: bottom;
     justify-content: space-between;
@@ -1229,7 +1229,7 @@ body {
     .about-left {
         width: 668px;
         min-height: 650px;
-        background-image:url(img/shadow__about-adaptive768.png),url(img/bg__about-adaptive768.jpg);
+        background-image:url(../img/shadow__about-adaptive768.png),url(../img/bg__about-adaptive768.jpg);
         background-repeat: no-repeat;
         background-size: contain;
     }
@@ -1466,7 +1466,7 @@ body {
     .about-left {
         width: 290px;
         min-height: 200px;
-        background-image:url(img/bg__about320.jpg);
+        background-image:url(../img/bg__about320.jpg);
         background-repeat: no-repeat;
         background-size: contain;
         margin-bottom: 8px;
