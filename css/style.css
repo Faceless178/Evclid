@@ -358,7 +358,7 @@ body {
 .about-left {
     width: 868px;
     min-height:622px;
-    background-image:url(img/dark-about.png),url(img/bg-about.jpg);
+    background-image:url(../img/dark-about.png),url(../img/bg-about.jpg);
     background-repeat: no-repeat;
     background-position: bottom;
     justify-content: space-between;
@@ -415,7 +415,7 @@ body {
 }
 
 .about-right__list-card1 {
-    background-image: url(img/card1.png);
+    background-image: url(../img/card1.png);
     background-repeat: no-repeat;
     background-position: 8.3% 48%;
     background-size: 22%;
@@ -423,7 +423,7 @@ body {
 }
 
 .about-right__list-card2 {
-    background-image: url(img/card2.png);
+    background-image: url(../img/card2.png);
     background-repeat: no-repeat;
     background-position: 8.3% 48%;
     background-size: 22%;
