@@ -881,7 +881,7 @@ body {
     transform: translate(-50%, -50%);
     width: 12px;
     height: 12px;
-    background-image: url(img/check.svg);
+    background-image: url(../img/check.svg);
     background-repeat: no-repeat;
     background-position:center;
     transition: .2s;
@@ -1050,7 +1050,7 @@ body {
 
     .hero__container {
         height: 668px;
-        background-image: url(img/bg_Hero-adaptive.jpg);
+        background-image: url(../img/bg_Hero-adaptive.jpg);
     }
     .hero__descr {
         margin-bottom: 60px;
