@@ -358,7 +358,7 @@ body {
 .about-left {
     width: 868px;
     min-height:622px;
-    background-image:url(../img/dark-about.png),url(./img/bg-about.jpg);
+    background-image:url(img/dark-about.png),url(img/bg-about.jpg);
     background-repeat: no-repeat;
     background-position: bottom;
     justify-content: space-between;
